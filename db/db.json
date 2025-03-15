@@ -1,0 +1,128 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "user": {
+        "username": "srizzx",
+        "profile": "/src/assets/dp1.jpg"
+      },
+      "postimg": "/src/assets/post1.jpg",
+      "caption": "#Nature #asthetic 🏝 🎼",
+      "likes": 120,
+      "timestamp": "2025-03-11T11:11:00Z"
+    },
+    {
+      "id": "2",
+      "user": {
+        "username": "Ram_naaxxx",
+        "profile": "/src/assets/dp2.jpg"
+      },
+      "postimg": "/src/assets/post2.jpg",
+      "caption": "#Nature #asthetic 🏝 🎼",
+      "likes": 80,
+      "timestamp": "2025-03-11T11:11:00Z"
+    },
+    {
+      "id": "3",
+      "user": {
+        "username": "prakzsxxx",
+        "profile": "/src/assets/dp3.jpg"
+      },
+      "postimg": "/src/assets/post3.jpg",
+      "caption": "#Nature #asthetic 🏝 🎼",
+      "likes": 90,
+      "timestamp": "2025-03-11T11:11:00Z"
+    },
+    {
+      "id": "4",
+      "user": {
+        "username": "Zooxxzzz",
+        "profile": "/src/assets/dp2.jpg"
+      },
+      "postimg": "/src/assets/post4.jpg",
+      "caption": "#Nature #asthetic 🏝 🎼",
+      "likes": 130,
+      "timestamp": "2025-03-11T11:11:00Z"
+    }
+  ],
+  "profilemain": {
+    "id": 101,
+    "username": "Ramanaaaaaaa",
+    "profile": "/src/assets/dp2.jpg"
+  },
+  "suggestion": [
+    {
+      "id": "201",
+      "username": "Malikss",
+      "profile": "/src/assets/suggestion1.jpg"
+    },
+    {
+      "id": "202",
+      "username": "Sarikxxs",
+      "profile": "/src/assets/suggestion2.webp"
+    },
+    {
+      "id": "203",
+      "username": "Thorrxszz",
+      "profile": "/src/assets/suggestion3.jpg"
+    },
+    {
+      "id": "204",
+      "username": "Spiderrsz",
+      "profile": "/src/assets/suggestion04.jpg"
+    }
+  ],
+  "storys": [
+    {
+      "id": "301",
+      "username": "srizzx",
+      "profile": "/src/assets/dp1.jpg",
+      "storypic": "/src/assets/story1.webp"
+    },
+    {
+      "id": "302",
+      "username": "Ram_naaxxx",
+      "profile": "/src/assets/dp2.jpg",
+      "storypic": "/src/assets/story2.jpg"
+    },
+    {
+      "id": "303",
+      "username": "prakzsxxx",
+      "profile": "/src/assets/dp3.jpg",
+      "storypic": "/src/assets/story3.webp"
+    },
+    {
+      "id": "304",
+      "username": "Zooxxzzz",
+      "profile": "/src/assets/dp2.jpg",
+      "storypic": "/src/assets/story4.webp"
+    }
+  ],
+  "followers": [
+    {
+      "id": "401",
+      "username": "Malikss",
+      "profile": "/src/assets/suggestion1.jpg"
+    },
+    {
+      "id": "402",
+      "username": "Sarikxxs",
+      "profile": "/src/assets/suggestion2.webp"
+    },
+    {
+      "id": "403",
+      "username": "Thorrxszz",
+      "profile": "/src/assets/suggestion3.jpg"
+    },
+    {
+      "id": "404",
+      "username": "Spideerxxs",
+      "profile": "/src/assets/suggestion04.jpg"
+    },
+    {
+      "id": "202",
+      "username": "Sarikxxs",
+      "profile": "/src/assets/suggestion2.webp"
+    }
+  ]
+}
