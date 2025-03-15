@@ -4,9 +4,9 @@
       "id": "1",
       "user": {
         "username": "srizzx",
-        "profile": "/src/assets/dp1.jpg"
+        "profile": "./src/assets/dp1.jpg"
       },
-      "postimg": "/src/assets/post1.jpg",
+      "postimg": "./src/assets/post1.jpg",
       "caption": "#Nature #asthetic 🏝 🎼",
       "likes": 120,
       "timestamp": "2025-03-11T11:11:00Z"
@@ -15,9 +15,9 @@
       "id": "2",
       "user": {
         "username": "Ram_naaxxx",
-        "profile": "/src/assets/dp2.jpg"
+        "profile": "./src/assets/dp2.jpg"
       },
-      "postimg": "/src/assets/post2.jpg",
+      "postimg": "./src/assets/post2.jpg",
       "caption": "#Nature #asthetic 🏝 🎼",
       "likes": 80,
       "timestamp": "2025-03-11T11:11:00Z"
@@ -26,9 +26,9 @@
       "id": "3",
       "user": {
         "username": "prakzsxxx",
-        "profile": "/src/assets/dp3.jpg"
+        "profile": "./src/assets/dp3.jpg"
       },
-      "postimg": "/src/assets/post3.jpg",
+      "postimg": "./src/assets/post3.jpg",
       "caption": "#Nature #asthetic 🏝 🎼",
       "likes": 90,
       "timestamp": "2025-03-11T11:11:00Z"
@@ -37,9 +37,9 @@
       "id": "4",
       "user": {
         "username": "Zooxxzzz",
-        "profile": "/src/assets/dp2.jpg"
+        "profile": "./src/assets/dp2.jpg"
       },
-      "postimg": "/src/assets/post4.jpg",
+      "postimg": "./src/assets/post4.jpg",
       "caption": "#Nature #asthetic 🏝 🎼",
       "likes": 130,
       "timestamp": "2025-03-11T11:11:00Z"
